@@ -123,7 +123,7 @@ git switch -c <branch name> # 创建并切换分支
 将本地库上传到git
 
 ```bash
-git remote add origin https://github.com/wupengpaddy/git-demo.git
+git remote add origin https://github.com/wupengpaddy/vue-course.git
 # git add <remote name> 
 git branch -M main
 # 修改分支的名字为main
@@ -134,7 +134,7 @@ git push -u origin main
 将本地仓库上传到gitee
 
 ```bash
-git remote add gitee https://gitee.com/wupeng_paddy/gitdemo.git
+git remote add gitee https://gitee.com/wupeng_paddy/vue-course.git
 git push -u gitee "main"
 ```
 
